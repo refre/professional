@@ -1,0 +1,5 @@
+﻿V1.0.2
+- Embeed the xml file
+2013-09-17 V1.1.0
+- Add of the new class UnknownFileManager
+

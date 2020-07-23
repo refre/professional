@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Version 1.0-->
+<Devices>
+  <Device name="Doprimo">
+    <Article>10970</Article>
+    <Article>10980</Article>
+    <Article>10989</Article>
+    <Article>11038</Article>
+    <Article>11060</Article>
+    <Article>11070</Article>
+    <Article>11079</Article>
+    <Article>11080</Article>
+    <Article>11089</Article>
+    <Article>11090</Article>
+    <Article>11091</Article>
+    <Article>11098</Article>
+    <Article>11099</Article>
+    <Article>11150</Article>
+    <Article>11151</Article>
+    <Article>11160</Article>
+    <Article>11161</Article>
+    <Article>11190</Article>
+    <Article>11199</Article>
+    <Article>11490</Article>
+    <Article>11499</Article>
+  </Device>
+  <Device name="Water">
+    <Article>18411</Article>
+    <Article>19401</Article>
+    <Article>19410</Article>
+    <Article>19411</Article>
+    <Article>19320</Article>
+    <Article>90000</Article>
+    <Article>90001</Article>
+    <Article>19399</Article>
+  </Device>
+  <Device name="Pulsonic">
+    <Article>19414</Article>
+    <Article>19415</Article>
+    <Article>19419</Article>
+    <Article>90100</Article>
+    <Article>90200</Article>
+    <Article>90300</Article>
+
+  </Device>
+  <Device name="Optosonic">
+    <Article>19450</Article>
+    <Article>19449</Article>
+    <Article>19451</Article>
+    <Article>90002</Article>
+    <Article>59121</Article>
+    <Article>48071</Article>
+    <Article>79984</Article>
+    <Article>79983</Article>
+    <Article>79982</Article>
+    <Article>79981</Article>
+  </Device>
+  <Device name="PowerSonic">
+    <Article>19470</Article>
+  </Device>
+  <Device name="Repeater">
+    <Article>12352</Article>
+  </Device>
+</Devices>
+
+
